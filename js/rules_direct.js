@@ -1,10 +1,10 @@
 window.RULES_DIRECT = {
-    "/lin": {
-        "url": "https://blog.olinl.com",
+    "/s": {
+        "url": "https://w.142588.xyz/_url",
         "expired_at": ""
     },
-    "/tixxin": {
-        "url": "https://tix.xin",
+    "/notice": {
+        "url": "https://notice.142588.xyz",
         "expired_at": ""
     },
     "/": {
@@ -15,32 +15,32 @@ window.RULES_DIRECT = {
         "url": "https://iiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii.iiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii.in/",
         "expired_at": ""
     },
-    "/tit": {
-        "url": "https://blog.acofork.com/posts/pin/",
+    "/ai": {
+        "url": "https://ai.142588.xyz",
         "expired_at": ""
     },
-    "/ak": {
-        "url": "https://akile.io/register?aff_code=503fe5ea-e7c5-4d68-ae05-6de99513680e",
+    "/img": {
+        "url": "https://imgbed.142588.xyz",
         "expired_at": ""
     },
-    "/yyb": {
-        "url": "https://www.rainyun.com/acofork_?s=bilibili",
+    "/mail": {
+        "url": "https://tempmail.142587.de5.net",
         "expired_at": ""
     },
-    "/wly": {
-        "url": "https://wl.awcmam.com/#/register?code=FNQwOQBM",
+    "/push": {
+        "url": "https://pushing.142587.de5.net",
         "expired_at": ""
     },
-    "/mly": {
-        "url": "https://muleyun.com/aff/GOTRJLPN",
+    "/paste": {
+        "url": "https://paste.142588.xyz",
         "expired_at": ""
     },
-    "/tly": {
-        "url": "https://tianlicloud.cn/aff/HNNCFKGP",
+    "/edit": {
+        "url": "https://edit.142588.xyz",
         "expired_at": ""
     },
-    "/kook": {
-        "url": "https://kook.vip/K29zpT",
+    "/pass": {
+        "url": "https://pass.142588.xyz",
         "expired_at": ""
     },
     "/gal": {
@@ -61,10 +61,6 @@ window.RULES_DIRECT = {
     },
     "/esa": {
         "url": "https://tianchi.aliyun.com/specials/promotion/freetier/esa?taskCode=25254&recordId=c856e61228828a0423417a767828d166",
-        "expired_at": ""
-    },
-    "/s": {
-        "url": "https://2x.nz/_url",
         "expired_at": ""
     },
     "/plan": {
