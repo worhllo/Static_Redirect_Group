@@ -43,12 +43,12 @@ window.RULES_DIRECT = {
         "url": "https://pass.142588.xyz",
         "expired_at": ""
     },
-    "/gal": {
-        "url": "https://www.notion.so/acofork/AcoFork-24c1e011d4e580ea8b0ee36fdb4a2363",
+    "/gh": {
+        "url": "https://gh.142588.xyz",
         "expired_at": ""
     },
-    "/ok": {
-        "url": "https://acofork-uptime.zeabur.app/status/acofork",
+    "/nav": {
+        "url": "https://nav.142588.xyz",
         "expired_at": ""
     },
     "/donate": {
