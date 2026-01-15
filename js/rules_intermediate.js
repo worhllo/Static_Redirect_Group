@@ -1238,5 +1238,9 @@ window.RULES_INTERMEDIATE = {
     "/jkxnea": {
         "url": "http://jkx.dotcog.nhely.hu/",
         "expired_at": "2026-01-21T14:54:00.000Z"
+    },
+    "/ceshiw": {
+        "url": "https://paste.142588.xyz/paste/QpBKuQ",
+        "expired_at": "2026-01-15T15:26:00.000Z"
     }
 };
