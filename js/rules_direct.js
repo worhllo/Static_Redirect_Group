@@ -8,7 +8,7 @@ window.RULES_DIRECT = {
         "expired_at": ""
     },
     "/": {
-        "url": "https://blog.acofork.com/",
+        "url": "https://note.142588.xyz/",
         "expired_at": ""
     },
     "/long": {
