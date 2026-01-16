@@ -51,12 +51,12 @@ window.RULES_DIRECT = {
         "url": "https://nav.142588.xyz",
         "expired_at": ""
     },
-    "/donate": {
-        "url": "https://blog.acofork.com/sponsors",
+    "/pad": {
+        "url": "https://notepad.142588.xyz",
         "expired_at": ""
     },
-    "/tg": {
-        "url": "https://t.me/+_07DERp7k1ljYTc1",
+    "/cover": {
+        "url": "https://cover.142588.xyz",
         "expired_at": ""
     },
     "/esa": {
