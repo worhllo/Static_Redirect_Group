@@ -59,8 +59,8 @@ window.RULES_DIRECT = {
         "url": "https://cover.142588.xyz",
         "expired_at": ""
     },
-    "/esa": {
-        "url": "https://tianchi.aliyun.com/specials/promotion/freetier/esa?taskCode=25254&recordId=c856e61228828a0423417a767828d166",
+    "/dis": {
+        "url": "https://discuss.142588.xyz",
         "expired_at": ""
     },
     "/plan": {
