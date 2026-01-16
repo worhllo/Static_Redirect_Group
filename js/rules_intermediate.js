@@ -1250,5 +1250,9 @@ window.RULES_INTERMEDIATE = {
     "/blogs": {
         "url": "https://blog.acofork.com/posts/static-redirect-group/",
         "expired_at": "2026-01-15T16:15:00.000Z"
+    },
+    "/ygdgv": {
+        "url": "https://github.com/wexuo/home?tab=readme-ov-file",
+        "expired_at": "2026-01-16T00:45:00.000Z"
     }
 };
