@@ -1254,5 +1254,9 @@ window.RULES_INTERMEDIATE = {
     "/ygdgv": {
         "url": "https://github.com/wexuo/home?tab=readme-ov-file",
         "expired_at": "2026-01-16T00:45:00.000Z"
+    },
+    "/share": {
+        "url": "https://notepad.142588.xyz/share/4ee7a0e1a97821256803b6efce2af81d",
+        "expired_at": "2026-01-16T05:27:00.000Z"
     }
 };
