@@ -95,6 +95,10 @@ window.RULES_DIRECT = {
         "url": "https://wxpush.142588.xyz/N5Z6gQbW9api8lyT/",
         "expired_at": ""
     },
+    "/link": {
+        "url": "https://link.142588.xyz",
+        "expired_at": ""
+    },
     "/plan": {
         "url": "https://acofork.notion.site/2e11e011d4e5800fa050e8f7cf448347",
         "expired_at": ""
