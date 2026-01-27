@@ -24,11 +24,11 @@ window.RULES_DIRECT = {
         "expired_at": ""
     },
     "/mail": {
-        "url": "https://tempmail.142587.de5.net",
+        "url": "https://mail.142588.xyz",
         "expired_at": ""
     },
     "/push": {
-        "url": "https://pushing.142587.de5.net",
+        "url": "https://push.142588.xyz",
         "expired_at": ""
     },
     "/paste": {
@@ -61,6 +61,38 @@ window.RULES_DIRECT = {
     },
     "/dis": {
         "url": "https://discuss.142588.xyz",
+        "expired_at": ""
+    },
+    "/pay": {
+        "url": "https://pay.142588.xyz",
+        "expired_at": ""
+    },
+    "/nav2": {
+        "url": "https://nav2.142588.xyz",
+        "expired_at": ""
+    },
+    "/sub": {
+        "url": "https://sub.142587.de5.net",
+        "expired_at": ""
+    },
+    "/gpt": {
+        "url": "https://gptbot.142588.xyz",
+        "expired_at": ""
+    },
+    "/chat": {
+        "url": "https://chat.142588.xyz",
+        "expired_at": ""
+    },
+    "/radar": {
+        "url": "https://radar.142588.xyz",
+        "expired_at": ""
+    },
+    "/analytics": {
+        "url": "https://analytics.142588.xyz",
+        "expired_at": ""
+    },
+    "/wxpush": {
+        "url": "https://wxpush.142588.xyz/N5Z6gQbW9api8lyT",
         "expired_at": ""
     },
     "/plan": {
