@@ -92,7 +92,7 @@ window.RULES_DIRECT = {
         "expired_at": ""
     },
     "/wxpush": {
-        "url": "https://wxpush.142588.xyz/N5Z6gQbW9api8lyT",
+        "url": "https://wxpush.142588.xyz/N5Z6gQbW9api8lyT/",
         "expired_at": ""
     },
     "/plan": {
